@@ -35,26 +35,42 @@
 
     ![Tutorial](/images/Tutorial.jpg)
 
+    This is the home page for the project. It exists to inform students and other new users on how to use the website.
+
 5.  Smart Home
 
     ![Smart Home](/images/SmartHome.jpg)
+
+    This is the page for controlling and monitoring the Smart Home.
 
 6.  Smart Farm
 
     ![Smart Farm](/images/SmartFarm.jpg)
 
+    The Smart Farm is unused.
+
 7.  Object Detection
 
     ![Object Detection](/images/ObjDetect.jpg)
 
+    Object Detection requires a camera attached to a raspberry pi that is hosting the ignition server.
+
 8.  Conveyor, Big Screen
+
+    Unused?
+
 
 9.  Smart Bulb
 
     ![Smart Bulb](/images/SmartBulb.jpg)
 
+    Only Mohammad knows.
+
 10. Sandbox
 
     ![Sandbox](/images/SandBox.jpg)
+
+    This webpage allows you to setup conditions for turning on outputs on the smart homes.
+    
 ---
 
