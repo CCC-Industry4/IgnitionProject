@@ -59,7 +59,6 @@
 
     Unused?
 
-
 9.  Smart Bulb
 
     ![Smart Bulb](/images/overview/SmartBulb.jpg)
