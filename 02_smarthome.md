@@ -49,7 +49,11 @@
     ![Configure Binding](/images//smarthome/dropdownconfigbinding.jpg)
 
     - If you wish to see the python script, go to the Perspective Property Editor tab and right click on options. Then click on configure binding to see the script that controls how the options refresh.
-    
+
     ![Dropdown Script](/images/smarthome/dropdownscript.jpg)
+
+4. Additional Info
+
+    - There is an onClick script for the entire page that writes to the namespace tags. This is because we use the tag system to manage writing and reading from the server to the smart homes. A limitation is that you can normally only write/read to one object at a time. Tags don't play nice with custom session properties as far as I can recall (may be worth researching) so we use a hacky method that just swaps the Ignition Namespace tag to whatever client is trying to write to the smart home whenever they interact with the webpage. 
 
 ---

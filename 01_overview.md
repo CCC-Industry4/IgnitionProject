@@ -73,4 +73,3 @@
     This webpage allows you to setup conditions for turning on outputs on the smart homes.
     
 ---
-
