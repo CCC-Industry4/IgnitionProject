@@ -6,5 +6,4 @@
 
 ![Smart Bulb](/images/smartbulb/smartbulb0.jpg)
 
-
 ---
