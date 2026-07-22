@@ -40,7 +40,7 @@
 5.  Smart Home
 
     ![Smart Home](/images/overview/SmartHome.jpg)
-
+    [Link](/02_smarthome.md)
     This is the page for controlling and monitoring the Smart Home.
 
 6.  Smart Farm
@@ -52,6 +52,7 @@
 7.  Object Detection
 
     ![Object Detection](/images/overview/ObjDetect.jpg)
+    [Link](/03_objectdetection.md)
 
     Object Detection requires a camera attached to a raspberry pi that is hosting the ignition server.
 
@@ -62,13 +63,15 @@
 9.  Smart Bulb
 
     ![Smart Bulb](/images/overview/SmartBulb.jpg)
+    [Link](/04_smartbulb.md)
 
     Only Mohammad knows.
 
 10. Sandbox
 
     ![Sandbox](/images/overview/SandBox.jpg)
+    [Link](/05_sandbox.md)
 
-    This webpage allows you to setup conditions for turning on outputs on the smart homes.
+    This webpage allows you to setup rules for turning on outputs on the smart homes.
     
 ---
