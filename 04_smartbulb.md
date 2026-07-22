@@ -2,6 +2,9 @@
 # Smart Bulb
 ---
 
-1. TODO
+1. The Smart Bulb
+
+![Smart Bulb](/images/smartbulb/smartbulb0.jpg)
+
 
 ---
