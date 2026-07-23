@@ -4,6 +4,6 @@
 
 1. The Smart Bulb
 
-![Smart Bulb](/images/smartbulb/smartbulb0.jpg)
+    ![Smart Bulb](/images/smartbulb/smartbulb0.jpg)
 
 ---
