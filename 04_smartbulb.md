@@ -6,4 +6,7 @@
 
     ![Smart Bulb](/images/smartbulb/smartbulb0.jpg)
 
+    - You can use the sliders to control the RGB values and light intensity of the bulb.
+    - The button on the left allows you to remotely toggle the light off/on.
+    
 ---

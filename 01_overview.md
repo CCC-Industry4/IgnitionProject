@@ -65,7 +65,7 @@
     ![Smart Bulb](/images/overview/SmartBulb.jpg)
     [Link](/04_smartbulb.md)
 
-    - Only Mohammad knows.
+    - With a Smart Bulb connected, you can remotely control the RGB values and intensity through sliders.
 
 10. Sandbox
 
