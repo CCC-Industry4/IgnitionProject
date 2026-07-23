@@ -10,5 +10,6 @@ This git project exists to act as wiki for the Ignition Project
 - [Object Detection](/03_objectdetection.md)
 - [Smart Bulb](/04_smartbulb.md)
 - [Sandbox](/05_sandbox.md)
-
+- [Ignition Tag System](/06_tags.md)
+- [MQTT Engine](/07_mqtt.md)
 ---
