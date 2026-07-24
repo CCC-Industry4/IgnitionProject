@@ -2,6 +2,40 @@
 # Ignition Tag System
 ---
 
-1. TODO
+1. Where to Find Tags
+
+    ![Find Tags](/images/tags/tags0.jpg)
+    - You can find the tags folder in the bottom left corner of the Ignition Designer.
+
+2. User Defined Tag (UDT) Definitions
+    
+    ![UDT Definitions](/images/tags/tags1.jpg)
+    - First make sure you're in the proper directory by clicking the dropdown of the Tag Browser and navigating to "default."
+    - Then click on the UDT Definitions to see the User Defined Tag Defintions.
+    - Right-click on the "home" tag and click "Edit tag(s)" to see more info.
+
+3. Home Tag
+    
+    ![Home Tag](/images/tags/tags2.jpg)
+    - This is the home tag details. You can see the type structure has it being the parent of six child tags.
+    
+    ![control1 tag](/images/tags/tags3.jpg)
+    - To better understand how the tag is used, click on the scripting tab below for the control1 tag.
+    - The control1 tag controls the Yellow LED.
+    
+4. Tag Scripting
+
+    ![Tag Scripting](/images/tags/tags4.jpg)
+    - def valueChanged(tag, tagPath, previousValue, currentValue, initialChange, missedEvents):
+        - This runs whenever the tag value changes.
+	
+    - if initialChange:
+	-   return
+        - If the tag value is the same as its previous value, the function returns.
+    - path = system.tag.readBlocking("[~]NamespaceHome/Concat")[0].value
+    - fullpath = path + '/control1'
+        - It gets the path for publishing to the MQTT broker module. 
+	- system.cirruslink.engine.publish('MQTT_Broker', fullpath, currentValue.value, 0, 0)
+        - Publishes to the MQTT Broker using the namespace path.
 
 ---
