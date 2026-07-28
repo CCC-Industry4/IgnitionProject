@@ -1,5 +1,7 @@
 [Back to Main Menu](https://github.com/CCC-Industry4/IgnitionProject/tree/main)
+
 # Smart Home
+
 ---
 
 1. Namespace Usage/Session Custom Properties 
