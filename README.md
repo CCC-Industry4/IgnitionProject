@@ -1,4 +1,5 @@
 # Ignition-Project
+
 This git project exists to act as wiki for the Ignition Project
 
 ### Table of Contents
@@ -12,4 +13,5 @@ This git project exists to act as wiki for the Ignition Project
 - [Sandbox](/05_sandbox.md)
 - [Ignition Tag System](/06_tags.md)
 - [MQTT Engine](/07_mqtt.md)
+
 ---
