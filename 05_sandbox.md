@@ -24,6 +24,7 @@
     - For binary inputs like pushbuttons, you can check if something is off/on, or set it to as a toggle for a rule. For non-binary inputs that return values like 
     - Setpoints are used for a subsection of inputs. Certain inputs (like temperature) are more complex and return a numerical value, rather than a simple on/off.
     - Outputs are components of the smart home that are turned on/off when the logic is true.
+    - Each of the 4 drop downs have their own tags created and placed in the AutomationLogic folder, all bound to their respective value property. This is done because there is also a tag in the AutomationLogic folder called LiveSensorValue, which controls almost all of the sandbox functions, and it reads the value of each of the 4 drop downs to determine what to do, and this value is retrieved from the 4 tags.
 
 3. Saving and Running Rules
 
@@ -37,6 +38,7 @@
     ![4](/images/sandbox/sandbox4.jpg)
 
     - This table holds all the saved rules for the sandbox.
+    - All rules in the table are always active. For example, if there is a rule in the table for a button to turn on the yellow led, and another rule for that same button to open the door, when the button is pressed, both commands will be executed.
 
 
 ---
