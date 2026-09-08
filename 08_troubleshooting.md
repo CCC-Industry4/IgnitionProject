@@ -7,25 +7,27 @@ Ethernet - Verify settings using Windows PC using ethernet cable
 2. Double click on Change adapter options.
    ![Ethernet Settings](https://github.com/user-attachments/assets/405834df-6ddc-40ef-93c7-ccc00f8f6d7a)
    If you do not see this option, instead search "View network connections" in the Windows search bar. Then continue following the rest of the steps.
-   
+
+![Image]("https://github.com/user-attachments/assets/8fb21e94-2a6e-4a93-a8df-06fefc9e1d4c")
+
    ![Ethernet Settings](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140537.png)
 
    ![Ethernet Settings](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140627.png)
 
-3. Double click on Ethernet.
-4. Click on Properties.
+2. Double click on Ethernet.
+3. Click on Properties.
    
    ![Ethernet Status](https://github.com/user-attachments/assets/e105e93d-9ab3-4ca1-9910-3e4b6637564c)
 
-5. Double click on Internet Protocol Version 4 (TCP/IPv4).
+4. Double click on Internet Protocol Version 4 (TCP/IPv4).
 
    ![Ethernet Prooperties](https://github.com/user-attachments/assets/62cd93aa-09f8-46f5-a0b1-928f7255cc72)
 
-6. Verify that “Obtain an IP address automatically” is selected.
+5. Verify that “Obtain an IP address automatically” is selected.
 
     ![Internet Protocol Version 4 (TCP-IPv4) Properties](https://github.com/user-attachments/assets/4287082b-46f7-495e-994e-c55a2cc08b14)
 
-7. Restore Session by pressing button or use following link: http://192.168.10.2:8088/data/perspective/client/I4Project/smarthome 
+6. Restore Session by pressing button or use following link: http://192.168.10.2:8088/data/perspective/client/I4Project/smarthome 
 
 
 Ethernet - Verify connectivity and data transfer
