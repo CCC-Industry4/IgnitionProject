@@ -9,11 +9,6 @@ Ethernet - Verify settings using Windows PC using ethernet cable
    If you do not see this option, instead search "View network connections" in the Windows search bar. Then continue following the rest of the steps.
    
 
-   ![Ethernet Settings](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140537.png)
-
-   ![Ethernet Settings](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140627.png)
-
-
 <p align="center">
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140537.png" width="45%" />
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140627.png" width="45%" />
