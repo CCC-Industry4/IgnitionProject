@@ -12,9 +12,10 @@ Ethernet - Verify settings using Windows PC using ethernet cable
 
    ![Ethernet Settings](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140627.png)
 
+
 <p align="center">
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140627%20.png" width="48%" />
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140627%20.png" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140537.png" width="45%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140627.png" width="45%" />
 </p>
 
 
